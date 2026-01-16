@@ -1,0 +1,4 @@
+
+This study provides the first quantitative assessment of transparency across the U.S. federal government's AI use case inventory by combining system-level disclosures with agency-level characteristics, budget, workforce capacity, governance maturity, and external oversight. We establish a baseline of how consistently agencies communicate model design, data provenance, risks, and accountability mechanisms. Results show substantial variation. Transparency is strongly linked to agency resources and governance structures, revealing structural inequities in responsible AI readiness. These empirical gaps motivate the development of Responsible AI for Education (RAIFE), a standardized, multi-dimensional evaluation framework that formalizes the dimensions agencies should assess literacy, transparency, risk, governance, and public values. RAIFE is that missing link, a coherent pathway toward more transparency and AI adoption in the new era. 
+
+
