@@ -1,0 +1,21 @@
+- Scopus
+	- Web of Science
+	- ERIC
+	- IEEE 
+	- etc.
+
+- Stage 1:
+	- AI.gov --> this no longer works
+	- college scorecard - done 
+	- IPEDS - done
+	- BLS - 
+	- ONET
+	- Census
+	- ALS
+	- USASpending.gov - https://github.com/fedspendingtransparency/usaspending-api need to learn how to pull the data 
+	- OPM fedscope - https://www.fedscope.opm.gov
+	- CDO
+	- GAO AI accountability - https://files.gao.gov/reports/GAO-25-107653/index.html?_gl=1*741vlf*_ga*MTQ0MjI3NDQyNi4xNzY1ODQxMzAy*_ga_V393SNS3SR*czE3NjU4NDYyNDUkbzIkZzEkdDE3NjU4NDYyOTIkajEzJGwwJGgw
+- https://www.gao.gov/assets/gao-21-519sp.pdf
+	- OMB
+	- CIO - https://www.cio.gov/policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/?utm_source=chatgpt.com. done 
